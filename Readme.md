@@ -8,3 +8,5 @@
 - Georg-August Universität Göttingen (www.uni-goettingen.de/en/)
 - Hunter College (www.hunter.cuny.edu/main/)
 - Columbia University (https://www.columbia.edu/)
+
+## Research Interests
